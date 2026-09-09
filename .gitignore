@@ -1,0 +1,68 @@
+# build artifacts
+*.o
+*.a
+*.d
+*.gch
+*.dSYM/
+a.out
+
+# compiled binaries, one per exercise
+CPP00/ex00/megaphone
+CPP00/ex01/phoneBook
+CPP00/ex02/account
+CPP01/ex00/zombie
+CPP01/ex01/horde
+CPP01/ex02/brain
+CPP01/ex03/violence
+CPP01/ex04/losers
+CPP01/ex05/harl
+CPP01/ex06/harlFilter
+CPP02/ex00/fixedPoint
+CPP02/ex01/fixedPointSecond
+CPP02/ex02/fixedPointThird
+CPP02/ex03/bsp
+CPP03/ex00/clapTrap
+CPP03/ex01/scavTrap
+CPP03/ex02/fragTrap
+CPP03/ex03/diamondTrap
+CPP04/ex00/zoo
+CPP04/ex01/brainZoo
+CPP04/ex02/abstractZoo
+CPP04/ex03/interfaceMateria
+CPP05/ex00/bureaucrat
+CPP05/ex01/form
+CPP05/ex02/aform
+CPP05/ex03/intern
+CPP06/ex00/convert
+CPP06/ex01/castData
+CPP06/ex02/identify
+CPP07/ex00/whatever
+CPP07/ex01/iter
+CPP07/ex02/array
+CPP08/ex00/easyfind
+CPP08/ex01/span
+CPP08/ex02/mutantStack
+CPP09/ex00/btc
+CPP09/ex01/RPN
+CPP09/ex02/PmergeMe
+
+# program output written at run time
+*_shrubbery
+*.replace
+
+# debugging leftovers
+core
+vgcore.*
+*.supp
+
+# tooling and editors
+.clangd
+.vscode/
+.idea/
+*.swp
+*~
+.claude/
+
+# macOS
+.DS_Store
+._*
