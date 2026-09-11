@@ -73,12 +73,10 @@ Debian, both x86_64 and aarch64.
 ├── CPP06/              # C++ casts
 ├── CPP07/              # templates (.tpp files hold the definitions)
 ├── CPP08/              # templated containers and iterators
-├── CPP09/              # STL containers
-│   └── ex00/
-│       ├── data.csv    # historical bitcoin prices, read by btc
-│       └── input.txt   # sample query file
-├── LICENSE
-└── README.md
+└── CPP09/              # STL containers
+    └── ex00/
+        ├── data.csv    # historical bitcoin prices, read by btc
+        └── input.txt   # sample query file
 ```
 
 ## Notes
